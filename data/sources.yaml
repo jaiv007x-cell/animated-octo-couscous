@@ -1,0 +1,1336 @@
+registry_version: v6.2_verified_original_sources
+verification_date: '2026-06-27'
+verification_policy: Only official government, gazette, court/regulator, state corporation or government-hosted URLs are included.
+  No trade blogs, private legal trackers, WhatsApp forwards, or invented placeholder URLs are used.
+states:
+- code: AN
+  name: Andaman and Nicobar Islands
+  sources:
+  - name: Andaman & Nicobar Administration Home
+    url: https://andamannicobar.gov.in/
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: andamannicobar.gov.in
+    notes: Verified official UT administration portal.
+  - name: North & Middle Andaman Bar Licence Service
+    url: https://northmiddle.andaman.nic.in/licenses/
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: northmiddle.andaman.nic.in
+    notes: Verified district service page for grant of bar licence under Andaman Excise Rules, 1934.
+  - name: South Andaman Bar Licences
+    url: https://southandaman.nic.in/document/bar_license/
+    type: official
+    priority: 75
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: southandaman.nic.in
+    notes: Verified district page listing bar licences.
+  - name: India Code A&N Excise Regulation 2012
+    url: https://www.indiacode.nic.in/bitstream/123456789/18984/1/a_%26_n_islands_excise_regulation%2C_2012_%28no_3_of_2012_dtd_19072012.pdf
+    type: regulator
+    priority: 70
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.indiacode.nic.in
+    notes: Verified India Code copy of A&N Islands Excise Regulation, 2012; secondary legal baseline.
+- code: AP
+  name: Andhra Pradesh
+  sources:
+  - name: AP e-Gazette Search
+    url: https://apegazette.cgg.gov.in/searchAllGazette
+    type: gazette
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: apegazette.cgg.gov.in
+    notes: Verified official AP e-Gazette search portal; includes Revenue (Prohibition and Excise) / Commissioner, Prohibition
+      and Excise entries.
+  - name: AP e-Gazette Home
+    url: https://apegazette.cgg.gov.in/
+    type: gazette
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: apegazette.cgg.gov.in
+    notes: Verified official AP Gazette home page.
+  - name: AP Commissioner of Prohibition and Excise Citizen Documents
+    url: https://apcpe.aptonline.in/CPEBLA/Views/citizen/Documents/Gazette_Notification_01042025.pdf
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: apcpe.aptonline.in
+    notes: Verified official AP CPE document/Gazette notification endpoint; monitor as document evidence, not as a dynamic
+      listing.
+- code: AR
+  name: Arunachal Pradesh
+  sources:
+  - name: Arunachal Pradesh e-Abkari Home
+    url: https://eabkari.arunachal.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eabkari.arunachal.gov.in
+    notes: Verified Excise Wing, Department of Tax, Excise and Narcotics, Government of Arunachal Pradesh.
+  - name: Arunachal Pradesh Acts Rules Circulars
+    url: https://eabkari.arunachal.gov.in/CommonUser/Portal_New_Portal_Acts_Rules_Cirular.aspx?type=0
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eabkari.arunachal.gov.in
+    notes: Verified official acts/rules/circulars listing.
+  - name: Arunachal Pradesh Circulars
+    url: https://eabkari.arunachal.gov.in/CommonUser/Portal_New_Portal_Acts_Rules_Cirular.aspx?type=47
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eabkari.arunachal.gov.in
+    notes: Verified circulars page including duty/MRP circulars.
+- code: AS
+  name: Assam
+  sources:
+  - name: Assam Excise Notifications
+    url: https://excise.assam.gov.in/documents/notifications
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.assam.gov.in
+    notes: Verified Government of Assam Excise notifications page.
+  - name: Assam Excise Gazette Notifications
+    url: https://excise.assam.gov.in/documents/gazette-notification
+    type: gazette
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.assam.gov.in
+    notes: Verified Government of Assam Excise gazette notification page.
+  - name: Assam Excise Department Home
+    url: https://excise.assam.gov.in/
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.assam.gov.in
+    notes: Verified department home.
+  - name: Assam Excise Licence Page
+    url: https://excise.assam.gov.in/portlets/excise-licence
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.assam.gov.in
+    notes: Verified official licence fee/service page.
+- code: BR
+  name: Bihar
+  sources:
+  - name: Bihar Prohibition Excise and Registration Department - Excise
+    url: https://state.bihar.gov.in/excise/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: state.bihar.gov.in
+    notes: Verified Bihar state department page.
+  - name: Bihar e-Gazette Search
+    url: https://egazette.bihar.gov.in/SearchNotific.aspx
+    type: gazette
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: egazette.bihar.gov.in
+    notes: Verified Bihar e-Gazette search with Prohibition, Excise and Registration department listed.
+  - name: Bihar Prohibition Excise and Registration Department
+    url: https://state.bihar.gov.in/prohibition/
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: state.bihar.gov.in
+    notes: Verified department portal used for prohibition/excise context.
+- code: CG
+  name: Chhattisgarh
+  sources:
+  - name: Chhattisgarh Excise Department Home
+    url: https://excise.cg.nic.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.cg.nic.in
+    notes: Verified official Chhattisgarh Excise Department portal.
+  - name: Chhattisgarh Excise Rules
+    url: https://excise.cg.nic.in/aabkariniyam-eng
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.cg.nic.in
+    notes: Verified official rules page.
+  - name: Chhattisgarh State Notifications
+    url: https://state.cgstate.gov.in/en/all-notification
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: state.cgstate.gov.in
+    notes: Verified state notifications portal with Commercial Tax (Excise) Department filter.
+  - name: Chhattisgarh Excise E-Payment/Verification
+    url: https://excise.cg.nic.in/ePayment/login.aspx
+    type: official
+    priority: 75
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.cg.nic.in
+    notes: Verified official excise e-payment/verification services portal.
+- code: CH
+  name: Chandigarh
+  sources:
+  - name: Chandigarh Excise and Taxation Department
+    url: https://etdut.gov.in/exciseonline/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: etdut.gov.in
+    notes: Verified Chandigarh excise online portal / policy page.
+  - name: Chandigarh Excise Policy 2026-27
+    url: https://etdut.gov.in/ExciseOnline/img/excise/Excise%20Policy%202026-27.pdf
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: etdut.gov.in
+    notes: Verified official excise policy PDF for 2026-27.
+  - name: Chandigarh Excise Notifications
+    url: https://etdut.gov.in/exciseonline/notification3.html
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: etdut.gov.in
+    notes: Verified notification page.
+  - name: Chandigarh Excise Notifications New
+    url: https://etdut.gov.in/exciseonline/notification1.html
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: etdut.gov.in
+    notes: Verified notification page with 2025-26 notifications.
+- code: DL
+  name: Delhi
+  sources:
+  - name: Delhi Excise Notifications
+    url: https://excise.delhi.gov.in/notifications
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.delhi.gov.in
+    notes: Verified Government of NCT of Delhi Department of Excise notifications page.
+  - name: Delhi Excise Department Home
+    url: https://excise.delhi.gov.in/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.delhi.gov.in
+    notes: Verified Government of NCT of Delhi Department of Excise portal.
+  - name: Delhi e-Abkari Portal
+    url: https://eabkari.delhi.gov.in/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eabkari.delhi.gov.in
+    notes: Verified Department of Excise, GNCTD e-Abkari portal with notice board.
+  - name: Delhi Dastavez Excise COS
+    url: https://delhi.gov.in/centralized-cos?field_cos_no_value=&field_cos_type_target_id_1=All&field_date_value=&field_date_value_1=&field_domain_id_value=Excise&field_pdf_content_value=&field_subject_value=&page=0&title=
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: delhi.gov.in
+    notes: Verified Government of NCT of Delhi centralized circular/order system filtered for Excise domain.
+  - name: Delhi Excise Public Notices
+    url: https://excise.delhi.gov.in/excise/public-notices
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.delhi.gov.in
+    notes: Verified public notices page under Delhi Excise.
+- code: DN
+  name: Dadra and Nagar Haveli and Daman and Diu
+  sources:
+  - name: DNHDD Excise Department Home
+    url: https://ddnexcise.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: ddnexcise.gov.in
+    notes: Verified UT Excise Department portal.
+  - name: DNHDD Excise Department Documents
+    url: https://ddd.gov.in/document-category/excise-department/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: ddd.gov.in
+    notes: Verified official document category for excise notifications.
+  - name: DNHDD Excise Department Documents Page 2
+    url: https://ddd.gov.in/document-category/excise-department/page/2
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: ddd.gov.in
+    notes: Verified additional excise document page.
+  - name: DNHDD Excise Act and Rules PDF
+    url: https://ddnexcise.gov.in/Downloads/Act.pdf
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: ddnexcise.gov.in
+    notes: Verified official act/rules PDF.
+- code: GA
+  name: Goa
+  sources:
+  - name: Goa Excise Home
+    url: https://excise.goa.gov.in/index.aspx
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.goa.gov.in
+    notes: Verified Government of Goa Excise portal.
+  - name: Goa Excise Notifications
+    url: https://excise.goa.gov.in/notifications.aspx
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.goa.gov.in
+    notes: Verified official notification page.
+  - name: Goa Excise Circulars Orders
+    url: https://excise.goa.gov.in/circulars_notifications.aspx
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.goa.gov.in
+    notes: Verified circulars/orders page.
+  - name: Goa Excise Downloads
+    url: https://excise.goa.gov.in/Download.aspx
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.goa.gov.in
+    notes: Verified downloads page covering acts, rules, circulars/orders, notifications and forms.
+- code: GJ
+  name: Gujarat
+  sources:
+  - name: Gujarat Directorate of Prohibition and Excise
+    url: https://prohibition-excise.gujarat.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: prohibition-excise.gujarat.gov.in
+    notes: Verified Government of Gujarat prohibition/excise department portal.
+  - name: Gujarat Prohibition and Excise e-Services
+    url: https://e-prohibition.gujarat.gov.in/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: e-prohibition.gujarat.gov.in
+    notes: Verified Directorate of Prohibition and Excise e-services portal.
+  - name: Gujarat e-Permit
+    url: https://eps.gujarat.gov.in/
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eps.gujarat.gov.in
+    notes: Verified Prohibition & Excise Department e-permit login portal.
+- code: HP
+  name: Himachal Pradesh
+  sources:
+  - name: Himachal Pradesh Taxes and Excise Home
+    url: https://www.hptax.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.hptax.gov.in
+    notes: Verified Department of State Taxes and Excise portal.
+  - name: Himachal Pradesh Notifications
+    url: https://www.hptax.gov.in/notification
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.hptax.gov.in
+    notes: Verified notification page.
+  - name: Himachal Pradesh Circulars
+    url: https://www.hptax.gov.in/circulars
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.hptax.gov.in
+    notes: Verified circulars page.
+  - name: Himachal Pradesh Excise Policy and Arrangements
+    url: https://www.hptax.gov.in/page/exciseArrangements
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.hptax.gov.in
+    notes: Verified excise arrangements/policy page.
+- code: HR
+  name: Haryana
+  sources:
+  - name: Haryana Excise Home
+    url: https://haryanatax.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: haryanatax.gov.in
+    notes: Verified Haryana Excise portal with policy/notification references.
+  - name: Haryana Excise Policy Page
+    url: https://haryanatax.gov.in/HEX/appmanager/HexPortal/HaryanaExcise?_nfpb=true&_pageLabel=HaryanaExcise_portal_page_23
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: haryanatax.gov.in
+    notes: Verified official excise policy page.
+  - name: Haryana Excise Notifications
+    url: https://haryanatax.gov.in/HEX/menuJSP/excisePolicyETendering.jsp?excisePolicyData=2025_27
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: haryanatax.gov.in
+    notes: Verified official excise notifications page.
+  - name: Haryana Excise Notification Book
+    url: https://haryanatax.gov.in/HEX/appmanager/HexPortal/HaryanaExcise?_nfpb=true&_pageLabel=HaryanaExcise_portal_book_45
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: haryanatax.gov.in
+    notes: Verified official excise notification listing.
+- code: JH
+  name: Jharkhand
+  sources:
+  - name: Jharkhand Excise and Prohibition Department
+    url: https://www.jharkhand.gov.in/excise
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.jharkhand.gov.in
+    notes: Verified Jharkhand department page with documents, notices and notifications.
+  - name: Jharkhand Excise Notice and Notification
+    url: https://www.jharkhand.gov.in/PDepartment/SearchUploadedDocuments?department=a7a81ba176b755a597b776604940a2c5&doctype=eccbc87e4b5ce2fe28308fd9f2a7baf3&subdoctype=1679091c5a880faf6fb5e6087eb1b2dc
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.jharkhand.gov.in
+    notes: Verified official notice & notification list.
+  - name: Jharkhand Excise Acts and Rules
+    url: https://www.jharkhand.gov.in/PDepartment/SearchUploadedDocuments?department=a7a81ba176b755a597b776604940a2c5&doctype=c81e728d9d4c2f636f067f89cc14862c&subdoctype=c4ca4238a0b923820dcc509a6f75849b
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.jharkhand.gov.in
+    notes: Verified official acts and rules list.
+- code: JK
+  name: Jammu and Kashmir
+  sources:
+  - name: Jammu and Kashmir Excise Department e-Abgari
+    url: https://eabgari.jkexcise.nic.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eabgari.jkexcise.nic.in
+    notes: Verified J&K Excise Department e-Abgari portal.
+  - name: Jammu and Kashmir Finance Excise Page
+    url: https://jakfinance.jk.gov.in/excise1.html
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: jakfinance.jk.gov.in
+    notes: Verified Finance Department excise policies/orders page.
+  - name: J&K Finance Circulars Notifications
+    url: https://jakfinance.jk.gov.in/circular.html
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: jakfinance.jk.gov.in
+    notes: Verified Finance Department circulars/notifications page.
+  - name: J&K Excise Policy 2025-26 PDF
+    url: https://jakfinance.jk.gov.in/CIRCULARs/CIRCULAR_2024/Excise%20Policy%202025-26_15-02-2025.pdf
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: jakfinance.jk.gov.in
+    notes: Verified official excise policy PDF.
+- code: KA
+  name: Karnataka
+  sources:
+  - name: Karnataka State Excise Home
+    url: https://stateexcise.karnataka.gov.in/english
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.karnataka.gov.in
+    notes: Verified State Excise Department, Government of Karnataka.
+  - name: Karnataka State Excise Notifications
+    url: https://stateexcise.karnataka.gov.in/9/notifications/en
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.karnataka.gov.in
+    notes: Verified official notifications page.
+  - name: Karnataka Excise Acts
+    url: https://stateexcise.karnataka.gov.in/info-4/Excise%2B%2BAct/en
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.karnataka.gov.in
+    notes: Verified official act/rules page.
+- code: KL
+  name: Kerala
+  sources:
+  - name: Kerala Excise Home
+    url: https://keralaexcise.gov.in/en/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: keralaexcise.gov.in
+    notes: Verified Kerala State Excise official portal.
+  - name: Kerala Excise Circulars and Orders
+    url: https://keralaexcise.gov.in/en/circulars/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: keralaexcise.gov.in
+    notes: Verified circulars/orders page.
+  - name: Kerala Excise Government Orders
+    url: https://keralaexcise.gov.in/en/government-orders-2/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: keralaexcise.gov.in
+    notes: Verified government orders page.
+  - name: Kerala Excise Announcements
+    url: https://keralaexcise.gov.in/en/category/announcements/
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: keralaexcise.gov.in
+    notes: Verified announcements page.
+- code: LA
+  name: Ladakh
+  sources:
+  - name: Ladakh Administration Home
+    url: https://ladakh.nic.in/
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: ladakh.nic.in
+    notes: Verified official UT administration portal.
+  - name: Kargil District Excise Policy 2026-27 UT Ladakh
+    url: https://kargil.nic.in/notice/excise-policy-2026-2027-ut-ladakh/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: kargil.nic.in
+    notes: Verified district administration page publishing UT Ladakh Excise Policy 2026-27.
+  - name: Leh District Notices
+    url: https://leh.nic.in/notices/
+    type: official
+    priority: 70
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: leh.nic.in
+    notes: Verified district notices portal; monitor for UT-local excise notices.
+- code: LD
+  name: Lakshadweep
+  sources:
+  - name: Lakshadweep Administration Home
+    url: https://lakshadweep.gov.in/
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: lakshadweep.gov.in
+    notes: Verified official Lakshadweep administration portal.
+  - name: Lakshadweep Draft Excise Regulation Public Notice
+    url: https://lakshadweep.gov.in/notice/public-notice-the-draft-lakshadweep-excise-regulation-2022/
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: lakshadweep.gov.in
+    notes: Verified official public notice for draft Lakshadweep Excise Regulation.
+  - name: India Central Gazette Lakshadweep Excise Regulation 2026
+    url: https://www.legislative.gov.in/static/uploads/2026/05/ccb147cfb44faaaf0c53ccf168158c91.pdf
+    type: gazette
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.legislative.gov.in
+    notes: Verified legislative.gov.in PDF containing Lakshadweep Excise Regulation, 2026; use as central gazette legal source.
+- code: MH
+  name: Maharashtra
+  sources:
+  - name: Maharashtra State Excise Home
+    url: https://stateexcise.maharashtra.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.maharashtra.gov.in
+    notes: Verified Government of Maharashtra State Excise portal.
+  - name: Maharashtra State Excise Circulars
+    url: https://stateexcise.maharashtra.gov.in/1142/Circular
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.maharashtra.gov.in
+    notes: Verified official circulars page.
+  - name: Maharashtra State Excise Manufactories Circulars
+    url: https://stateexcise.maharashtra.gov.in/Site/Common/ViewPDFList.aspx?Doctype=9E22C52D-1558-43E4-9F3A-C942C76C3AC5
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.maharashtra.gov.in
+    notes: Verified official PDF list for country liquor, foreign liquor, beer and wine manufactories.
+  - name: Maharashtra State Excise Rules
+    url: https://stateexcise.maharashtra.gov.in/Site/Common/ViewPDFList.aspx?Doctype=E4F0D092-FEB5-433B-B812-5615EEB1191C
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.maharashtra.gov.in
+    notes: Verified official rules PDF list.
+- code: ML
+  name: Meghalaya
+  sources:
+  - name: Meghalaya Excise Registration Taxation Stamps Department
+    url: https://meghalaya.gov.in/dept/13
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: meghalaya.gov.in
+    notes: Verified Meghalaya government department page.
+  - name: Meghalaya Excise Online Portal
+    url: https://excise.meghalaya.gov.in/
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.meghalaya.gov.in
+    notes: Verified Government of Meghalaya Excise Department online portal.
+  - name: Meghalaya ERTS Notifications
+    url: https://meghalaya.gov.in/notifications?department=Excise%20Registration%20Taxation%20Stamps%20Department
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: meghalaya.gov.in
+    notes: Verified Meghalaya government notifications category can include ERTS notifications; URL may need portal-side filter
+      handling.
+- code: MN
+  name: Manipur
+  sources:
+  - name: Manipur Excise Department Home
+    url: https://excise.mn.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.mn.gov.in
+    notes: Verified Department of Excise, Government of Manipur portal.
+  - name: Manipur Excise 2026 Archive
+    url: https://excise.mn.gov.in/2026/
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.mn.gov.in
+    notes: Verified department archive/notification listing.
+  - name: Manipur Government Excise Uploaded Notifications
+    url: https://manipur.gov.in/?s=Excise
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: manipur.gov.in
+    notes: Verified Government of Manipur search/index entry point for Excise PDFs; dynamic monitoring should follow discovered
+      official PDFs.
+  - name: Manipur Gazette/Press Portal
+    url: https://manipurgovtpress.nic.in/
+    type: gazette
+    priority: 75
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: manipurgovtpress.nic.in
+    notes: Verified official Manipur government press/gazette domain discovered via official excise duty gazette result.
+- code: MP
+  name: Madhya Pradesh
+  sources:
+  - name: Madhya Pradesh State Excise Home
+    url: https://eaabkari.mp.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eaabkari.mp.gov.in
+    notes: Verified State Excise Organization, Government of Madhya Pradesh.
+  - name: Madhya Pradesh Excise e-Services
+    url: https://eaabkari.mp.gov.in/MIS/Portal_Mean_Median.aspx
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eaabkari.mp.gov.in
+    notes: Verified official e-services/statistics page.
+- code: MZ
+  name: Mizoram
+  sources:
+  - name: Mizoram Excise and Narcotics Home
+    url: https://excise.mizoram.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.mizoram.gov.in
+    notes: Verified Government of Mizoram Excise & Narcotics portal.
+  - name: Mizoram Excise Notifications
+    url: https://excise.mizoram.gov.in/category/notifications
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.mizoram.gov.in
+    notes: Verified notifications page.
+  - name: Mizoram Excise Notice Board
+    url: https://excise.mizoram.gov.in/category/notice-board
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.mizoram.gov.in
+    notes: Verified notice board with appointments, releases and transfer orders.
+  - name: Mizoram Excise Posts
+    url: https://excise.mizoram.gov.in/posts
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.mizoram.gov.in
+    notes: Verified latest posts listing.
+- code: NL
+  name: Nagaland
+  sources:
+  - name: Nagaland Excise Home
+    url: https://excise.nagaland.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.nagaland.gov.in
+    notes: Verified Nagaland State Portal excise department.
+  - name: Nagaland Excise Notifications
+    url: https://excise.nagaland.gov.in/notifications/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.nagaland.gov.in
+    notes: Verified notification page.
+  - name: Nagaland Incumbent Officers
+    url: https://excise.nagaland.gov.in/incumbent-officers-list/
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.nagaland.gov.in
+    notes: Verified official incumbent officers page.
+  - name: Nagaland Rules and Regulations
+    url: https://excise.nagaland.gov.in/rules-and-regulations/
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.nagaland.gov.in
+    notes: Verified official rules/regulations page.
+- code: OD
+  name: Odisha
+  sources:
+  - name: Odisha State Excise Home
+    url: https://stateexcise.odisha.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.odisha.gov.in
+    notes: Verified Excise Department, Government of Odisha portal.
+  - name: Odisha Excise Notices
+    url: https://excise.odisha.gov.in/en/notification/notices
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.odisha.gov.in
+    notes: Verified official notices page.
+  - name: Odisha Excise Acts Rules Circulars
+    url: https://stateexcise.odisha.gov.in/CommonUser/Portal_New_Portal_Acts_Rules_Cirular.aspx?type=0
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: stateexcise.odisha.gov.in
+    notes: Verified official acts/rules/circulars page.
+  - name: Odisha e-Gazette Excise Archive
+    url: https://egazette.odisha.gov.in/extraordinary_archival_dept/58/1
+    type: gazette
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: egazette.odisha.gov.in
+    notes: Verified Odisha e-Gazette excise department archive.
+- code: PB
+  name: Punjab
+  sources:
+  - name: Punjab Excise and Taxation Department
+    url: https://excise.punjab.gov.in/Portal_New_Default.aspx
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.punjab.gov.in
+    notes: Verified Government of Punjab Excise & Taxation portal.
+  - name: Punjab Industries Excise Sample Forms
+    url: https://www.pbindustries.gov.in/static/assets/docs/sampleforms/L-3a_4a_5a.pdf
+    type: official
+    priority: 70
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.pbindustries.gov.in
+    notes: Verified official Punjab Industries document referencing Excise & Taxation workflow; keep as secondary business-process
+      evidence.
+- code: PY
+  name: Puducherry
+  sources:
+  - name: Puducherry Excise Portal PuduvaiCalal
+    url: https://exciseportal.py.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: exciseportal.py.gov.in
+    notes: Verified Government of Puducherry excise portal.
+  - name: Puducherry Excise Dashboard/Notice Board
+    url: https://exciseportal.py.gov.in/puduvaicalal1/queries/dashboard.do
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: exciseportal.py.gov.in
+    notes: Verified notice-board / excise dashboard page.
+  - name: Puducherry GOs Notifications Circulars
+    url: https://py.gov.in/gos-and-notification
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: py.gov.in
+    notes: Verified government portal for GOs/notifications/circulars.
+  - name: Puducherry Excise Auction Notification Page
+    url: https://py.gov.in/excise-notification-regarding-online-auction-arracktoddy-shops-ut-puducherry-lease-year-2020-21
+    type: official
+    priority: 75
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: py.gov.in
+    notes: Verified official excise notification page; use as historical pattern/source discovery.
+- code: RJ
+  name: Rajasthan
+  sources:
+  - name: Rajasthan Excise Department
+    url: https://excise.rajasthan.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.rajasthan.gov.in
+    notes: Verified Rajasthan Excise official portal.
+  - name: Rajasthan IEMS 2.0
+    url: https://iems.rajasthan.gov.in/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: iems.rajasthan.gov.in
+    notes: Verified official IEMS 2.0 excise services portal.
+  - name: Rajasthan Excise Important Downloads
+    url: https://excise.rajasthan.gov.in/Important-Downloads.aspx
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.rajasthan.gov.in
+    notes: Verified official downloads page.
+  - name: Rajasthan Excise FAQ
+    url: https://excise.rajasthan.gov.in/RSED/Website/Faq.aspx
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.rajasthan.gov.in
+    notes: Verified official FAQ page referencing Rajasthan Excise Act/Gazette notifications.
+- code: SK
+  name: Sikkim
+  sources:
+  - name: Sikkim Excise Department
+    url: https://www.sikkim.gov.in/departments/excise-department
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.sikkim.gov.in
+    notes: Verified Government of Sikkim Excise Department page.
+  - name: Sikkim Notification Circular Portal
+    url: https://www.sikkim.gov.in/media/notification-circular
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.sikkim.gov.in
+    notes: Verified official notification/circular portal.
+  - name: Sikkim Excise Revenue and Education Cess
+    url: https://www.sikkim.gov.in/departments/excise-department/excise-revenue-and-education-cess
+    type: official
+    priority: 75
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.sikkim.gov.in
+    notes: Verified official department sub-page.
+  - name: Sikkim Excise Officers List
+    url: https://dop.sikkim.gov.in/visitor/listofgovtoffdet/120
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: dop.sikkim.gov.in
+    notes: Verified official personnel list for Sikkim State Excise Service.
+- code: TN
+  name: Tamil Nadu
+  sources:
+  - name: Tamil Nadu Prohibition and Excise Department
+    url: https://tncpe.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: tncpe.gov.in
+    notes: Verified Government of Tamil Nadu Prohibition and Excise Department portal.
+  - name: Tamil Nadu Commissionerate of Prohibition and Excise
+    url: https://www.cpe.tn.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.cpe.tn.gov.in
+    notes: Verified commissionerate portal.
+  - name: Tamil Nadu Prohibition and Excise What's New
+    url: https://cpe.tn.gov.in/tamil/whatsnew.html
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: cpe.tn.gov.in
+    notes: Verified what's-new page with amendment/FL format/user-manual updates.
+  - name: Tamil Nadu CPE About/Acts
+    url: https://www.cpe.tn.gov.in/aboutus.html
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.cpe.tn.gov.in
+    notes: Verified official acts/rules page.
+- code: TR
+  name: Tripura
+  sources:
+  - name: Tripura State Excise Home
+    url: https://eabgari.tripura.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eabgari.tripura.gov.in
+    notes: Verified Government of Tripura State Excise portal.
+  - name: Tripura Acts Rules Circulars
+    url: https://eabgari.tripura.gov.in/CommonUser/Portal_New_Portal_Acts_Rules_Cirular.aspx?type=0
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: eabgari.tripura.gov.in
+    notes: Verified official acts/rules/circulars page.
+  - name: Tripura Revenue Notifications
+    url: https://revenue.tripura.gov.in/notification
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: revenue.tripura.gov.in
+    notes: Verified Tripura revenue notification page carrying excise service notifications.
+- code: TS
+  name: Telangana
+  sources:
+  - name: Telangana Prohibition and Excise Department
+    url: https://excise.telangana.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.telangana.gov.in
+    notes: Verified Government of Telangana Prohibition & Excise portal.
+  - name: Telangana Acts and Rules
+    url: https://excise.telangana.gov.in/Acts
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.telangana.gov.in
+    notes: Verified official acts/rules page.
+  - name: Telangana Beverage/Excise Services Portal
+    url: https://tgbcl.telangana.gov.in/
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: tgbcl.telangana.gov.in
+    notes: Verified Prohibition and Excise Department / TGBCL portal.
+  - name: Telangana Revenue Prohibition and Excise Department Page
+    url: https://www.telangana.gov.in/departments/revenue-prohibition-excise/
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: www.telangana.gov.in
+    notes: Verified official state portal with key officials, commissioner and MD details.
+  - name: Telangana TGBCL Key Officials
+    url: https://tgbcl.telangana.gov.in/ts/index.php/site/whoweare
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: tgbcl.telangana.gov.in
+    notes: Verified key officials page including MD / Director Enforcement.
+- code: UK
+  name: Uttarakhand
+  sources:
+  - name: Uttarakhand Excise Department Home
+    url: https://excise.uk.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.uk.gov.in
+    notes: Verified Uttarakhand Excise Department portal.
+  - name: Uttarakhand Excise Documents
+    url: https://excise.uk.gov.in/documents/
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.uk.gov.in
+    notes: Verified documents page for notifications/orders/rules.
+  - name: Uttarakhand Excise Announcements
+    url: https://excise.uk.gov.in/notice-category/announcements-general/
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.uk.gov.in
+    notes: Verified announcements page.
+  - name: Uttarakhand Excise Directory
+    url: https://excise.uk.gov.in/directory/
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.uk.gov.in
+    notes: Verified officials directory.
+- code: UP
+  name: Uttar Pradesh
+  sources:
+  - name: UP Excise E-Lottery Portal - Excise Department, Uttar Pradesh
+    url: https://exciseelotteryup.upsdc.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: exciseelotteryup.upsdc.gov.in
+    notes: Verified UP government-hosted excise e-lottery portal. Search result identifies it as ई-लॉटरी पोर्टल, आबकारी विभाग,
+      उत्तर प्रदेश and shows Excise Policy 2025-26/E-Lottery notices.
+  - name: District Meerut - Uttar Pradesh Excise Department E-Lottery FY 2026-27 notice
+    url: https://meerut.nic.in/notice/uttar-pradesh-excise-department-e-lottery-for-fy-2026-27/
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: meerut.nic.in
+    notes: Verified official NIC district notice linking to the UP Excise e-lottery portal for FY 2026-27.
+  - name: District Ghazipur - Excise Office
+    url: https://ghazipur.nic.in/excise-office/
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: ghazipur.nic.in
+    notes: Verified official NIC district excise office page used as a government-hosted UP excise source.
+  - name: District Fatehpur - Excise Department Official Links
+    url: https://fatehpur.nic.in/excise/
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: fatehpur.nic.in
+    notes: Verified official NIC district excise page with official links, policy/export policy/shop chart references.
+  - name: District Agra - Excise Department
+    url: https://agra.nic.in/excise-department-agra/
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: agra.nic.in
+    notes: Verified official NIC district excise department page for Agra, Uttar Pradesh.
+  - name: District Hamirpur - Excise Office
+    url: https://hamirpur.nic.in/excise-office/
+    type: official
+    priority: 75
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: hamirpur.nic.in
+    notes: Verified official NIC district excise office page referencing UP excise e-lottery.
+  notes: State-level public excise portal verification was not treated as sufficient in this pass; UP coverage uses verified
+    government-hosted UP Excise e-lottery and NIC district excise pages only.
+- code: WB
+  name: West Bengal
+  sources:
+  - name: West Bengal Excise Directorate
+    url: https://excise.wb.gov.in/
+    type: official
+    priority: 100
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.wb.gov.in
+    notes: Verified Government of West Bengal Excise Directorate portal.
+  - name: West Bengal What's Current
+    url: https://excise.wb.gov.in/CommonUser/Portal_New_Portal_Acts_Rules_Cirular.aspx?type=0
+    type: official
+    priority: 95
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.wb.gov.in
+    notes: Verified what's-current / orders listing.
+  - name: West Bengal Rules
+    url: https://excise.wb.gov.in/Commonuser/Portal_New_Portal_Acts_Rules_Cirular.aspx?type=42
+    type: official
+    priority: 90
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.wb.gov.in
+    notes: Verified rules page.
+  - name: West Bengal Circulars
+    url: https://excise.wb.gov.in/CommonUser/ExciseTender.aspx?type=47
+    type: official
+    priority: 85
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.wb.gov.in
+    notes: Verified circulars page.
+  - name: West Bengal Other Documents/Transfers
+    url: https://excise.wb.gov.in/CommonUser/ExciseTender.aspx?type=48
+    type: official
+    priority: 80
+    active: true
+    verification_status: VERIFIED_OFFICIAL_OR_GOVT_HOSTED
+    verified_on: '2026-06-27'
+    domain: excise.wb.gov.in
+    notes: Verified other documents page including transfer orders.
