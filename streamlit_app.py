@@ -4,6 +4,9 @@ from datetime import datetime
 from pathlib import Path
 import csv
 import os
+import subprocess
+import sys
+import time
 from typing import Any
 
 import pandas as pd
@@ -21,6 +24,35 @@ st.set_page_config(
 
 DEFAULT_API = os.getenv("API_BASE_URL", "http://127.0.0.1:8000")
 LEADS_FILE = Path("storage") / "saas_leads.csv"
+API_PROCESS: subprocess.Popen | None = None
+
+
+@st.cache_resource
+def ensure_internal_api() -> bool:
+    if api_base() != "http://127.0.0.1:8000":
+        return False
+    try:
+        requests.get(f"{api_base()}/health", timeout=2)
+        return False
+    except Exception:
+        pass
+
+    Path("storage").mkdir(exist_ok=True)
+    out = open(Path("storage") / "streamlit_internal_api.out.log", "a", encoding="utf-8")
+    err = open(Path("storage") / "streamlit_internal_api.err.log", "a", encoding="utf-8")
+    proc = subprocess.Popen(
+        [sys.executable, "-m", "uvicorn", "app.main:app", "--host", "127.0.0.1", "--port", "8000"],
+        stdout=out,
+        stderr=err,
+    )
+    globals()["API_PROCESS"] = proc
+    for _ in range(20):
+        try:
+            requests.get(f"{api_base()}/health", timeout=2)
+            return True
+        except Exception:
+            time.sleep(0.5)
+    return True
 
 
 def css() -> None:
@@ -123,6 +155,14 @@ def request_json(method: str, path: str, *, timeout: int = 30, **kwargs: Any) ->
         response.raise_for_status()
         return response.json(), None
     except Exception as exc:
+        if "127.0.0.1:8000" in url:
+            ensure_internal_api()
+            try:
+                response = requests.request(method, url, timeout=timeout, **kwargs)
+                response.raise_for_status()
+                return response.json(), None
+            except Exception:
+                pass
         return None, str(exc)
 
 
@@ -490,6 +530,7 @@ def render_admin(state_code: str | None) -> None:
 
 def main() -> None:
     css()
+    ensure_internal_api()
     state_code, days = render_sidebar()
     render_header()
 
